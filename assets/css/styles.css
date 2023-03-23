@@ -404,6 +404,10 @@ tfoot td, table th{
         display: none;
     }
 
+    .menu a{
+      color: red;
+    }
+
     .close-menu-label::after {
         content:'☰';
         position: fixed;
